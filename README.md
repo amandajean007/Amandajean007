@@ -37,6 +37,7 @@
 
 ### 📈 GitHub Stats:
 
+[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandajean007)](https://github.com/amandajean007/github-readme-stats)
 
 
 ### ⚡ Fun fact:

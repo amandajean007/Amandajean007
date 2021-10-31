@@ -44,3 +44,5 @@ Chase your stars fool, life is short.
 ### ⚡ Fun fact:
 
 - Cuttlefish are single-handedly the most fascinating animal on Earth!
+
+Many thanks to: https://github.com/anuraghazra/github-readme-stats and https://github.com/ZestyLimones for help with the README update. To update your profile README, check them out!

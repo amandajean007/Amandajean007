@@ -38,7 +38,7 @@
 ### 📈 GitHub Stats:
 
 [![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandajean007)](https://github.com/amandajean007/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandajean007&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandajean007&theme=synthwave)
 
 ### ⚡ Fun fact:
 

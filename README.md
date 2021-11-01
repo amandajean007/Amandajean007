@@ -1,4 +1,4 @@
-# ✨✨✨ Amanda ✨✨✨
+# Amanda ✨
 Chase your stars fool, life is short.
 
 ### 🔭 I’m currently working on:

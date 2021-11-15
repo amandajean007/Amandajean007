@@ -37,6 +37,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="4%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="4%" />
 </div>
-
-
-Many thanks to: https://github.com/anuraghazra/github-readme-stats and https://github.com/ZestyLimones/ZestyLimones for help with the README update. To update your profile README, check them out!

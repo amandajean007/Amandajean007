@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on:
 
 - Getting certified the DU Bootcamp program
-- Online/Offline Budget Tracker
+- Book Search Engine
 
 ### 🌱 I’m currently learning
 

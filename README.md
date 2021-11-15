@@ -38,10 +38,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="4%" />
 </div>
 
-### ⚡ Fun fact:
-
-Cuttlefish are the coolest!<br />
-![1581878522_981_cuttlefishes-wallpapers](https://user-images.githubusercontent.com/85036414/141830815-d598a7f0-821e-4e45-a719-3a986152a04e.jpg)
-
 
 Many thanks to: https://github.com/anuraghazra/github-readme-stats and https://github.com/ZestyLimones/ZestyLimones for help with the README update. To update your profile README, check them out!

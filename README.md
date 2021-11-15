@@ -1,10 +1,5 @@
 # Amanda McBee
 
-### 📈 GitHub Stats:
-
-[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandajean007)](https://github.com/amandajean007/github-readme-stats)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandajean007&theme=synthwave)
-
 ### 🔭 I’m currently working on:
 
 - Getting certified the DU Bootcamp program
@@ -37,3 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="4%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="4%" />
 </div>
+
+
+### 📈 GitHub Stats:
+
+[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandajean007)](https://github.com/amandajean007/github-readme-stats)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandajean007&theme=synthwave)
+

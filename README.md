@@ -3,13 +3,12 @@
 ### 🔭 I’m currently working on:
 
 - Getting certified the DU Bootcamp program
-- Book Search Engine
 
 ### 🌱 I’m currently learning
 
-- React
-- NoSQL
-- MongoDB
+- MERN
+- Authentication
+- PWAs
 
 ### 📫 How to reach me:
 

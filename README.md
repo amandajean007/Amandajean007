@@ -1,8 +1,10 @@
 # Amanda McBee
 
+Ever since I was a child, a passion for technology has come naturally to me. So it comes to no surprise that I am now a Full-Stack Web Developer with an affinity for the front-end and dedication to life-long learning. A background in customer service and management, and skills such as team leadership, project management, and client-retention have helped me to achieve Caggy Awards “Best Golf Course to Host a Tournament - 2016” at Colorado Golf Club and “Best of Breckenridge 2019 and 2020” as Store Manager at Green Dragon. I recently earned a bootcamp certificate in full-stack web development at The University of Denver. My newly developed skills include: HTML, CSS, Javascript, Jest, MySQL, NoSQL, Express, Node, MongoDB, Mongoose, React, MERN, JQuery and Handlebars. I became well-versed in Visual Studio Code, Github and Heroku. My project management and team skills became further strengthened while working on several group projects. One in particular, called Recipe Generator, which helps users find recipes based off of certain food ingredients, such as what may already be in the fridge/pantry. I kept the three-person project on pace using Github’s “Projects” feature, managed disputes, and integrated the use of RESTful routes with multiple third-party API integrations. We ended up with a fully functioning, user-friendly, and easy-to-update app that we hope to continue enhancing in the future. With my easy-going nature yet need for excellence, I am a beneficial team player and look forward to enhancing your business by combining my skills with my continuous passion for technology and learning.
+
 ### 🔭 I’m currently working on:
 
-- Getting certified the DU Bootcamp program
+- Panda Bets, a social media sports betting app.
 
 ### 🌱 I’m currently learning
 
@@ -10,9 +12,10 @@
 - Authentication
 - PWAs
 
-### 📫 How to reach me:
+### 📈 GitHub Stats:
 
-<a href="mailto:ahanes35@yahoo.com"><img src="https://img.icons8.com/fluency/48/000000/mailing.png" width="4%"/></a> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/amanda-mcbee-98a586108/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="4%"/>](https://www.facebook.com/amanda.jean.7758) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/amandajean007/)
+[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandajean007)](https://github.com/amandajean007/github-readme-stats)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandajean007&theme=synthwave)
 
 ### 🛠️ Tech Tools:
 
@@ -32,9 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="4%" />
 </div>
 
+### 📫 How to reach me:
 
-### 📈 GitHub Stats:
+<a href="mailto:ahanes35@yahoo.com"><img src="https://img.icons8.com/fluency/48/000000/mailing.png" width="4%"/></a> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/amanda-mcbee-98a586108/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="4%"/>](https://www.facebook.com/amanda.jean.7758) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/amandajean007/)
 
-[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandajean007)](https://github.com/amandajean007/github-readme-stats)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandajean007&theme=synthwave)
 

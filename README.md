@@ -4,7 +4,7 @@ Ever since I was a child, a passion for technology has come naturally to me. So 
 
 ### 🔭 I’m currently working on:
 
-- Panda Bets, a social media sports betting app.
+- Frozen Smoke Dispensary Website
 
 ### 🌱 I’m currently learning
 

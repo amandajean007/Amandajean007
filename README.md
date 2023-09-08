@@ -2,7 +2,7 @@
 
 From a young age, my innate passion for innovation, precision, and efficiency has been my guiding force. Committed to a lifelong journey of learning, I am eager to share my expertise with the world. Recently, I earned a full-stack web development certificate from The University of Denver's rigorous bootcamp program.
 My skill set now spans HTML, CSS, JavaScript, Jest, MySQL, NoSQL, Express, Node, MongoDB, Mongoose, React, MERN, jQuery, and Handlebars. I've become proficient in tools like Visual Studio Code, Github, and Heroku. Collaborating on diverse group projects further honed my project management and teamwork abilities. Notably, our Recipe Generator project, which streamlines recipe searches based on available ingredients, showcased my leadership through effective Github 'Projects' utilization, conflict resolution, and seamless integration of third-party APIs. The result? A fully functional, user-friendly, and adaptable app that we're eager to enhance further.
-My bootcamp experience solidified my passion for technology and affirmed my rapid learning capabilities. With my laid-back demeanor paired with an unwavering commitment to excellence, I am a valuable asset to any team. I eagerly anticipate the opportunity to contribute my skills and unceasing dedication to technology and learning to elevate your business.
+My bootcamp experience solidified my passion for technology and affirmed my rapid learning capabilities. With my laid-back demeanor paired with an unwavering commitment to excellence, I am a valuable asset to any team. I eagerly anticipate the opportunity to contribute my skills and unceasing dedication to technology and learning to elevate any business.
 
 ### 🔭 I’m currently working on:
 
